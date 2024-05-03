@@ -1,4 +1,4 @@
-# Learn Data Visualisation Part 2
+# Learn Data Analytics Part 2
 
 In this week, we will continue our journey to learn about data visualisation. We will learn about the basic data visualisation techniques and how to create various types of plots using Python libraries such as Matplotlib and Seaborn. We will also explore more advanced data visualisation concepts and techniques to help you create more informative and visually appealing visualisations.
 
